@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "934990742462",
+    "project_id": "diyotest-2c18d",
+    "storage_bucket": "diyotest-2c18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934990742462:android:800523102d4dc5beb82fef",
+        "android_client_info": {
+          "package_name": "com.example.diyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934990742462-0o3832f2qv9qin1570j1kf3asv441n7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNBRrn0kwatV5NhnCl0gD3OzlkRAEQU8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934990742462-0o3832f2qv9qin1570j1kf3asv441n7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934990742462-c0gukeor58n8bc20me3bibuau9a6a7pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diyo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
