@@ -1,16 +1,26 @@
-# diyo
+# Diyo
 
-A new Flutter project.
+Flutter APP.
 
 ## Getting Started
+This project is for testing purposes
 
-This project is a starting point for a Flutter application.
+### Feature:
+- list of all restaurants
+- scan the QR to start the order
+- Add Items to cart
+- Checkout
+- Order History
+- Favorite Restaurant List
 
-A few resources to get you started if this is your first Flutter project:
+### Note:
+When the user places an order by selecting a restaurant, the application will require that the QR code scanned matches the restaurant's data; a list of valid QR codes can be seen [here](https://drive.google.com/drive/folders/1xRRFaRs_20b0gYVab5__ezQwr5qzM_tK?usp=sharing).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All [valid QR](https://drive.google.com/drive/folders/1xRRFaRs_20b0gYVab5__ezQwr5qzM_tK?usp=sharing) codes can be received by the application for orders placed by pressing the floating action button on the bottom bar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Usefull Links
+- [Github Repository URL](https://github.com/reynaldiRepo/diyo-test)
+- [All Files Google Drive URL](https://drive.google.com/drive/folders/1jnPYOy6gY-OKoWdsN71wgf5it0ln-8JD?usp=sharing)
+- [Code Files Google Drive URL](https://drive.google.com/drive/folders/1jnPYOy6gY-OKoWdsN71wgf5it0ln-8JD?usp=sharing)
+- [List valid QR](https://drive.google.com/drive/folders/1xRRFaRs_20b0gYVab5__ezQwr5qzM_tK?usp=sharing)
+- [APK URL](https://drive.google.com/file/d/1UtvykWh3EoaJ8KUHFILLEx7HqDH-EbZB/view?usp=sharing)

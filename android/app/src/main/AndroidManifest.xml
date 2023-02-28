@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.diyo">
    <application
-        android:label="Diyo"
+        android:label="Rey Diyo"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
